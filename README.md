@@ -15,6 +15,19 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
+configure as opções de envio de e-mail caso queira receber e-mails de recuperação de senha
+
+```
+MAIL_MAILER=smtp
+MAIL_HOST=sandbox.smtp.mailtrap.io
+MAIL_PORT=587
+MAIL_USERNAME=
+MAIL_PASSWORD=
+MAIL_ENCRYPTION=
+MAIL_FROM_ADDRESS="hello@example.com"
+MAIL_FROM_NAME="${APP_NAME}"
+```
+
 ### criar key do laravel
 
 ```
