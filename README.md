@@ -1,6 +1,6 @@
 # SISTEMA DE CONTATOS
 
-## Configurações
+## Passo a passo
 
 ### Configurar env
 
