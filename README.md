@@ -41,3 +41,9 @@ php artisan key:generate
 ```
 php artisan migrate
 ```
+
+### rodar sistema
+
+```
+php artisan serve
+```
