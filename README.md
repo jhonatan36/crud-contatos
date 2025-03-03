@@ -1,5 +1,11 @@
 # SISTEMA DE CONTATOS
 
+## Requisitos
+
+-   PHP 8.1 ou superior para rodar laravel 11
+-   Composer instalado para baixar as dependencias do projeto
+-   nodejs com npm na versão mais atualizada para instalar componentes
+
 ## Passo a passo
 
 ### Configurar env
